@@ -67,23 +67,22 @@ Add the command-line interface  <br/>
 <p align="left">
 <hr>
 
-<h2>Testing the code</h2                 
-<h3>Option 1: Download some test files from the internet:</h3>
+<h2>Testing the code</h2
+                     
+<h3>Option 1: Download some test files from the internet</h3>
 
-- A PNG image (any image from Google Images, right-click > Save)
-- A PDF (any PDF)
-- A JPEG photo
+- A PNG image (any image from Google Images, right-click > Save), a PDF (any PDF), and a JPEG photo
 - Save them in your magic-number-identifier folder
 
 <h4>Option 2: Use files you already have</h4>
 
-- Copy some existing files (images, PDFs, etc.) into your project folder.
+- Copy some existing files (images, PDFs, etc.) into your project folder
 
 <h5>Option 3: Rename a file with the wrong extension</h5>
 
-- Take a PNG file
-- Rename it to fake.txt or fake.jpg
-- Hopefully it will still identify it as PNG!
+- Take a JPEG file
+- Rename it to download.ps1 or whatever you want
+- Hopefully it will still identify it as JPEG!
 
 <p align="center">
  
