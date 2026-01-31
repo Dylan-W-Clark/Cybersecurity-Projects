@@ -45,7 +45,7 @@ Optional but recommended: Set up a virtual environment (This keeps the project d
 <p align="center">
 Add the shebang and docstring <br/>
 
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Dylan-W-Clark/File-Type-Identifier/blob/4b1648d99967eefba7a0e7df366ded939383f9db/Screenshot%202026-01-31%20160742.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p align="center">
  
 - This is called a "shebang". On Linux/Mac it tells the system to run this with Python. On Windows it doesn't do much, good practice and makes your code portable.
