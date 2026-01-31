@@ -92,5 +92,9 @@ Add the command-line interface  <br/>
 <br />
 <p align="center">
 Running the tool - (make sure you're in the magic-number-identifier folder with venv activated) <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Dylan-W-Clark/File-Type-Identifier/blob/a4256a270ec735f389b2d93f17af0d3b84ca7e11/Screenshot%202026-01-31%20172530.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="left">
+
+- As we can see the tool correctly identified the file types and was not fooled by the renaming of the fiile!
 </p>
