@@ -61,7 +61,7 @@ Write the file identification function <br/>
 <br/>
 <br/>
 Add the command-line interface  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Dylan-W-Clark/File-Type-Identifier/blob/3a2f3ed7bd76fb56e5ea79aec1d96c9866c4ea04/Screenshot%202026-01-31%20165312.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <p align="left">
@@ -84,7 +84,6 @@ Add the command-line interface  <br/>
 - Take a PNG file
 - Rename it to fake.txt or fake.jpg
 - Hopefully it will still identify it as PNG!
-<br />
 <hr>
 <br />
 <p align="center">
