@@ -84,6 +84,10 @@ Add the command-line interface  <br/>
 - Take a PNG file
 - Rename it to fake.txt or fake.jpg
 - Hopefully it will still identify it as PNG!
+
+<p align="center">
+ 
+<img src="https://github.com/Dylan-W-Clark/File-Type-Identifier/blob/49cb1bbdef31193fac70278eb012dfe70036d111/Screenshot%202026-01-31%20171935.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <hr>
 <br />
 <p align="center">
