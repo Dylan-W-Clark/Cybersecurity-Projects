@@ -5,7 +5,7 @@ A command-line tool that reads file headers (magic numbers) to identify the actu
 ## Use Cases
 
 - **Detect file type mismatches** - Identify files with incorrect extensions (e.g., a `.txt` file that's actually an `.exe`)
-- **Security analysis** - Analyze suspicious files in CTFs or malware analysis
+- **Security analysis** - Analyse suspicious files in CTFs or malware analysis
 - **File upload verification** - Verify that uploaded files match their claimed type
 
 ## Technologies Used
